@@ -6,7 +6,7 @@
 [![Platform](https://img.shields.io/badge/Platform-Android-f0ad4e.svg)](https://www.android.com)
 [![Author](https://img.shields.io/badge/Author-scwang90-11bbff.svg)](https://github.com/scwang90)
 
-## [English](README.md) | 中文
+## [English](README_EN.md) | 中文
 
 MultiWaveHeader 是一个可以高度定制每个波形的Android水波控件。
 

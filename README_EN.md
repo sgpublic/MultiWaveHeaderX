@@ -7,7 +7,7 @@
 [![Author](https://img.shields.io/badge/Author-scwang90-11bbff.svg)](https://github.com/scwang90)
 
 
-## English | [中文](https://github.com/scwang90/MultiWaveHeader/blob/master/README.md)
+## English | [中文](README.md)
 
 MultiWaveHeader is an android wave view that can be highly customized for each wave.
 
@@ -63,7 +63,7 @@ MultiWaveHeader is an android wave view that can be highly customized for each w
 ```
 
 #### 3.Add MultiWaveHeader in the layout xml.
-```xml
+​```xml
     <com.sgpublic.multiwaveheaderx.MultiWaveHeader
         android:id="@+id/waveHeader"
         android:layout_width="match_parent"
