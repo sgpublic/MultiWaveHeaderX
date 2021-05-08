@@ -6,8 +6,9 @@ import android.graphics.Path;
  * 水波对象
  * Created by SCWANG on 2017/12/11.
  */
-@SuppressWarnings("ALL")
+@SuppressWarnings("All")
 class Wave /*extends View*/ {
+
     Path path;          //水波路径
     int width;          //画布宽度（2倍波长）
     int wave;           //波幅（振幅）

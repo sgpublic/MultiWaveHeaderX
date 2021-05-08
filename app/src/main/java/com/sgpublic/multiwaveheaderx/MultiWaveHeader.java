@@ -12,15 +12,14 @@ import android.graphics.Paint;
 import android.graphics.Path;
 import android.graphics.RectF;
 import android.graphics.Shader;
+import androidx.annotation.ColorRes;
+import androidx.annotation.Nullable;
+import androidx.core.graphics.ColorUtils;
 import android.util.AttributeSet;
 import android.view.View;
 import android.view.ViewGroup;
 import android.view.animation.DecelerateInterpolator;
 import android.view.animation.Interpolator;
-
-import androidx.annotation.ColorRes;
-import androidx.annotation.Nullable;
-import androidx.core.graphics.ColorUtils;
 
 import java.util.ArrayList;
 import java.util.List;
